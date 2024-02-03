@@ -28,9 +28,9 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/jawedalam7445/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jawed jawedalam7445 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RahuII&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<!--     <a href="https://github.com/jawedalam7445/github-readme-streak-stats"> -->
+<!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jawed jawedalam7445 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RahuII&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
+<!--     </a> -->
 </p>
 
 ## 📊 My Github Stats
@@ -44,7 +44,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jawedalam7445/github-readme-activity-graph"><img alt="Jawed jawedalam7445 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jawedalam7445&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jawedalam7445/github-readme-activity-graph">
+<!-- <img alt="Jawed jawedalam7445 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jawedalam7445&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
+</a>
 
 <br/>
 <br/>
